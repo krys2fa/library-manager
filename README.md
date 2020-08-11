@@ -9,23 +9,25 @@ This simple  project is to demonstrate module code seperation in JS.
 3.Provided a feature to add books to list of Favorite books
 4.Display all Favorite books added by the user
 6.Change status of the Books either Read/Unread
-7.Remmove/Delete book feature impleted to remove a saved Book.
-8.CLick on search more book to be able to search more book online by typing the title of the book as a search parameter.
+7.Remove/Delete book feature implemented  to remove a saved Book.
+8.Click on search more book to be able to search more book online by typing the title of the book as a search parameter.
 
 
 ### Setup Instruction
 
-1.Perform git clone  to the clone  the repository to your local machine.
-2.cd into the directory of the project.
-3.Double click on index.hml to lunch the application in browser
+1. Perform git clone  to the clone  the repository to your local machine.
+2. cd (change directory)  into the directory of the project.
+3. Double click on index.html to lunch the application in browser.
 
 
 
-#### Programming langauge use
+#### Tools to impletement LIbrary Manager
 
-JS,
-HTML5,
-CSS (Bootstrap 4),
+1. JS,
+2. HTML5,
+3. CSS (Bootstrap 4)
+4. Local storage
+
 
 ##### Author
 
