@@ -15,7 +15,7 @@ This simple  project is to demonstrate module code seperation in JS.
 
 ### Setup Instruction
 
-1.Perform git clone and close the repository.
+1.Perform git clone  to the clone  the repository to your local machine.
 2.cd into the directory of the project.
 3.Double click on index.hml to lunch the application in browser
 
@@ -23,12 +23,12 @@ This simple  project is to demonstrate module code seperation in JS.
 
 #### Programming langauge use
 
-JS
-HTML5
-CSS (Bootstrap 4)
+JS,
+HTML5,
+CSS (Bootstrap 4),
 
 ##### Author
 
 Isaac Amoako Adjei
-github account : steegee-soso
+github account : steegee-soso, 
 email :isaac.amoako.adjei@gmail.com
