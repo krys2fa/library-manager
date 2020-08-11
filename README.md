@@ -23,8 +23,8 @@ This simple  project is to demonstrate module code seperation in JS.
 
 #### Tools to impletement LIbrary Manager
 
-1. JS,
-2. HTML5,
+1. JS
+2. HTML5
 3. CSS (Bootstrap 4)
 4. Local storage
 
@@ -32,5 +32,11 @@ This simple  project is to demonstrate module code seperation in JS.
 ##### Author
 
 Isaac Amoako Adjei
-github account : steegee-soso, 
-email :isaac.amoako.adjei@gmail.com
+
+##### Email
+isaac.amoako.adjei@gmail.com
+
+#### LinkdIn
+
+
+
